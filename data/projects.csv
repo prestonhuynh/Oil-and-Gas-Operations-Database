@@ -1,0 +1,51 @@
+project_id,project_type,region,manager,budget,status
+OG-1000,Well Drilling,Permian Basin,"Paul Brown, OE",960848.85,Active
+OG-1001,Pipeline Construction,Eagle Ford,"Kristen Leach, PMP",8638053.41,Over Budget
+OG-1002,Pipeline Construction,Midland,"Adrian Cardenas, PE",12236741.62,Active
+OG-1003,Pipeline Construction,Midland,"Jamie Sullivan, OE",4529134.45,Completed
+OG-1004,Facility Upgrade,Permian Basin,"Alec Ramirez, OE",6008945.86,Delayed
+OG-1005,Facility Upgrade,Gulf Coast,"Kristen Leach, PMP",11081110.91,Active
+OG-1006,Maintenance Turnaround,Permian Basin,"Adrian Cardenas, PE",12526367.63,Delayed
+OG-1007,Pipeline Construction,Permian Basin,"Kristen Leach, PMP",10088318.12,Delayed
+OG-1008,Well Drilling,Eagle Ford,"Alec Ramirez, OE",6011830.26,Over Budget
+OG-1009,Facility Upgrade,Eagle Ford,"Jamie Sullivan, OE",5651425.15,Delayed
+OG-1010,Well Drilling,Eagle Ford,"Jennifer Wilkerson, PMP",2869336.16,Over Budget
+OG-1011,Facility Upgrade,Eagle Ford,"Jamie Sullivan, OE",12721352.84,Active
+OG-1012,Pipeline Construction,Permian Basin,"Jamie Sullivan, OE",6316889.41,Active
+OG-1013,Pipeline Construction,Gulf Coast,"Jennifer Wilkerson, PMP",10003860.65,Over Budget
+OG-1014,Maintenance Turnaround,Eagle Ford,"Adrian Cardenas, PE",2524639.63,Delayed
+OG-1015,Maintenance Turnaround,Midland,"Jamie Sullivan, OE",3680151.01,Completed
+OG-1016,Maintenance Turnaround,Permian Basin,"Kristen Leach, PMP",12985992.19,Completed
+OG-1017,Pipeline Construction,Midland,"Alec Ramirez, OE",6079126.02,Over Budget
+OG-1018,Facility Upgrade,Permian Basin,"Alec Ramirez, OE",10384800.35,Delayed
+OG-1019,Facility Upgrade,Permian Basin,"Adrian Cardenas, PE",6804096.13,Over Budget
+OG-1020,Well Drilling,Gulf Coast,"Yesenia Evans, OE",7861384.28,Active
+OG-1021,Facility Upgrade,Eagle Ford,"Yesenia Evans, OE",5921750.86,Completed
+OG-1022,Well Drilling,Gulf Coast,"Miss Julie Bauer DVM, OE",782412.76,Delayed
+OG-1023,Facility Upgrade,Eagle Ford,"Kristen Leach, PMP",3992638.09,Active
+OG-1024,Well Drilling,Midland,"Alec Ramirez, OE",14680775.16,Completed
+OG-1025,Pipeline Construction,Midland,"Yesenia Evans, OE",4343321.12,Over Budget
+OG-1026,Pipeline Construction,Eagle Ford,"Adrian Cardenas, PE",6285388.35,Delayed
+OG-1027,Maintenance Turnaround,Midland,"Alec Ramirez, OE",4094631.4,Active
+OG-1028,Facility Upgrade,Permian Basin,"Jennifer Wilkerson, PMP",9032381.66,Active
+OG-1029,Well Drilling,Permian Basin,"Jennifer Wilkerson, PMP",1477304.76,Active
+OG-1030,Facility Upgrade,Permian Basin,"Jennifer Wilkerson, PMP",4537920.33,Over Budget
+OG-1031,Pipeline Construction,Eagle Ford,"Miss Julie Bauer DVM, OE",4023460.01,Over Budget
+OG-1032,Maintenance Turnaround,Eagle Ford,"Alec Ramirez, OE",1905496.81,Over Budget
+OG-1033,Facility Upgrade,Midland,"Paul Brown, OE",7271857.69,Active
+OG-1034,Well Drilling,Permian Basin,"Paul Brown, OE",11059097.03,Active
+OG-1035,Pipeline Construction,Eagle Ford,"Jennifer Wilkerson, PMP",8276143.43,Completed
+OG-1036,Maintenance Turnaround,Eagle Ford,"Adrian Cardenas, PE",7208106.99,Active
+OG-1037,Maintenance Turnaround,Permian Basin,"Kristen Leach, PMP",9956100.96,Active
+OG-1038,Well Drilling,Eagle Ford,"Yesenia Evans, OE",6393003.84,Over Budget
+OG-1039,Pipeline Construction,Midland,"Kristen Leach, PMP",2887238.26,Active
+OG-1040,Maintenance Turnaround,Gulf Coast,"Miss Julie Bauer DVM, OE",4636113.82,Over Budget
+OG-1041,Pipeline Construction,Eagle Ford,"Adrian Cardenas, PE",3656663.03,Active
+OG-1042,Well Drilling,Gulf Coast,"Kristen Leach, PMP",1227063.89,Over Budget
+OG-1043,Pipeline Construction,Permian Basin,"Alec Ramirez, OE",12844466.91,Active
+OG-1044,Well Drilling,Eagle Ford,"Paul Brown, OE",2238355.9,Completed
+OG-1045,Well Drilling,Permian Basin,"Paul Brown, OE",10031910.88,Delayed
+OG-1046,Facility Upgrade,Eagle Ford,"Jamie Sullivan, OE",3960946.31,Over Budget
+OG-1047,Pipeline Construction,Gulf Coast,"Miss Julie Bauer DVM, OE",5084569.35,Active
+OG-1048,Well Drilling,Midland,"Alec Ramirez, OE",1562280.46,Completed
+OG-1049,Facility Upgrade,Eagle Ford,"Jamie Sullivan, OE",13272530.52,Completed
