@@ -8,16 +8,16 @@ A relational SQL project analyzing capital project operations for a fictional Oi
 
 ## Database Structure
 projects — Core project registry. One row per project.\
- • project_id, project_type, region, manager, budget, status
+ • ``project_id``, ``project_type``, ``region``, ``manager``, ``budget``, ``status``
 
 labor — Labor entries logged against projects.\
- • labor_id, project_id, trade, hours, rate, date
+ • ``labor_id``, ``project_id``, ``trade``, ``hours``, ``rate``, ``date``
 
 materials — Material purchases logged against projects.\
- • material_id, project_id, material_type, quantity, unit_cost, date
+ • ``material_id``, ``project_id``, ``material_type``, ``quantity``, ``unit_cost``, ``date``
 
 milestones — Milestone tracking with planned vs actual dates.\
- • milestone_id, project_id, milestone, planned_date, actual_date, slippage_days
+ • ``milestone_id``, ``project_id``, ``milestone``, `planned_date``, ``actual_date``, ``slippage_days``
 
 ## Business Questions & Insights
 ### Which manager has the best on-time rate?
@@ -33,7 +33,7 @@ Drilling Engineers carry the highest total cost driven by volume of hours. Notab
 Permian Basin showed the highest budget variance at 86.3% over budget with an average budget of $8,754,773.50 against average labor and material costs of $12,329.32. Eagle Ford had the lowest variance at 74.5% — still significantly over budget, indicating a portfolio-wide cost control issue rather than a region-specific one.
 
 ## Files
- • generate_data.py — Synthetic data generator\
- • queries.sql — All business queries with comments\
- • data/ — Generated CSVs for all four tables\
- • oil_gas_operations.db — SQLite database file
+ • ``generate_data.py`` — Synthetic data generator\
+ • ``queries.sql`` — All business queries with comments\
+ • ``data/`` — Generated CSVs for all four tables\
+ • ``oil_gas_operations.db`` — SQLite database file
