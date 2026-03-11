@@ -17,7 +17,7 @@ materials — Material purchases logged against projects.\
  • ``material_id``, ``project_id``, ``material_type``, ``quantity``, ``unit_cost``, ``date``
 
 milestones — Milestone tracking with planned vs actual dates.\
- • ``milestone_id``, ``project_id``, ``milestone``, `planned_date``, ``actual_date``, ``slippage_days``
+ • ``milestone_id``, ``project_id``, ``milestone``, ``planned_date``, ``actual_date``, ``slippage_days``
 
 ## Business Questions & Insights
 ### Which manager has the best on-time rate?
